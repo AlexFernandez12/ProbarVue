@@ -1,0 +1,19 @@
+{
+  "name": "probarvue",
+  "version": "0.1.0",
+  "description": "Proyecto Vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexFernandez12/ProbarVue.git"
+  },
+  "author": "Alex Fernandez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexFernandez12/ProbarVue/issues"
+  },
+  "homepage": "https://github.com/AlexFernandez12/ProbarVue#readme"
+}
